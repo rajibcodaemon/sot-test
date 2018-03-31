@@ -1,0 +1,65 @@
+a {
+	cursor: pointer;
+}
+#tbl-employee {
+	box-shadow:  0 5px 15px #333;
+}
+.table th, .table td {
+	width: 10%;
+	word-break: break-word;
+}
+#tbl-th-index {
+	width : 5%;
+}
+
+#tbl-th-address {
+	width: 20%;
+}
+#tbl-th-email {
+	width: 20%;
+}
+#tbl-th-name {
+	width: 15%;
+}
+#tbl-th-contact {
+	width: 50%;
+}
+#tbl-th-designation {
+	width: 30%;
+}
+#tbl-th-employee {
+	width: 90%;
+}
+#tbl-th-action {
+	width: 5%;
+	word-wrap: unset;
+}
+#tbl-th-department {
+	width: 15%;
+}
+
+.progress {
+	height: 30px;
+}
+
+#msg-response {
+	font-weight: 600;
+    font-size: medium;
+}
+
+.form-check-input {
+	margin-left: 0;	
+}
+.form-check-label {
+	margin-left: 1.25rem;
+}
+.form-group label {
+	font-weight: 700;
+}
+.has-error {
+	border-color: #f00;
+}
+.error {
+	color: #f00;
+	font-size: 12px;
+}
